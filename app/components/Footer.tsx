@@ -17,7 +17,7 @@ export default function Footer() {
           <br />
           <span className="block mt-2">Kami yang berbahagia,</span>
         </p>
-        <h3 className="text-heading sm:text-xl font-semibold mt-2">Kel. Bapak Suprapto dan Ibu Tuminah &amp; Kel. Bapak Mohammad Diram dan Ibu Sukarsih</h3>
+        <h3 className="text-heading sm:text-md font-semibold mt-2">Kel. Bapak Suprapto dan Ibu Tuminah &amp; Kel. Bapak Mohammad Diram dan Ibu Sukarsih</h3>
       </motion.div>
 
       <motion.div
